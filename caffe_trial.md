@@ -118,6 +118,8 @@ error: ‘const class caffe::V0LayerParameter’ has no member named ‘GetArena
 
 error: ‘google::protobuf::io::EpsCopyOutputStream’ has not been declared
 
+##to be further updated -0106
+
 
 
 
